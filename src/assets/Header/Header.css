@@ -1,0 +1,10 @@
+nav a{
+    margin: 1rem;
+    background-color: antiquewhite;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: black;
+}
+nav a.active{
+    text-decoration: underline;
+}
